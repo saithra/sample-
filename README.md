@@ -1,0 +1,3 @@
+Simple website using html,css only...
+
+![sample](https://github.com/saithra/sample-/assets/149575617/26ff4974-7fde-4b02-9b7d-de1a29e11b13)
